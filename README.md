@@ -1,4 +1,4 @@
 6033
 ====
 
-Material And Solution Related to Mit 6033 course.
+Material And Solutions Related to Mit 6033 course.
